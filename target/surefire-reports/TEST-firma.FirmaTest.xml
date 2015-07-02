@@ -63,9 +63,9 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="firma.FirmaTest" name="testSelectUslugi" time="0.111"/>
-  <testcase classname="firma.FirmaTest" name="testSelectUsl" time="0.001"/>
-  <testcase classname="firma.FirmaTest" name="testInsertUsl" time="0.012"/>
+  <testcase classname="firma.FirmaTest" name="testSelectUslugi" time="0.109"/>
+  <testcase classname="firma.FirmaTest" name="testSelectUsl" time="0"/>
+  <testcase classname="firma.FirmaTest" name="testInsertUsl" time="0.014"/>
   <testcase classname="firma.FirmaTest" name="testInsertKlient" time="0.01"/>
-  <testcase classname="firma.FirmaTest" name="testInsertUslugi" time="0.01"/>
+  <testcase classname="firma.FirmaTest" name="testInsertUslugi" time="0.011"/>
 </testsuite>

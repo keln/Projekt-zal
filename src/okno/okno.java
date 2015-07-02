@@ -1,5 +1,6 @@
 package okno;
 import java.util.List;
+import view.Ver;
 
 import packageModel.Klient;
 import packageModel.Usl;
@@ -32,7 +33,7 @@ import javax.swing.JEditorPane;
 import java.awt.Color;
 
 //import firma.Firma;
-public class okno {
+public class okno extends Ver {
 
 	private JFrame frame;
 	private JTextField textField;
@@ -46,7 +47,7 @@ public class okno {
 	/**
 	 * Launch the application.
 	 */
-	public static void main(String[] args) {
+	public void launch() {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				try {

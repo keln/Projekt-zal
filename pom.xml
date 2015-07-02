@@ -41,7 +41,7 @@
           </descriptorRefs>
           <archive>
             <manifest>
-              <mainClass>okno.okno</mainClass>
+              <mainClass>main.Main</mainClass>
             </manifest>
           </archive>
         </configuration>
